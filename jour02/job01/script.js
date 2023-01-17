@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function(){
 
         const citation = document.querySelector("#citation").innerText; // je cible le texte que je veux afficher 
 
-        console.log(citation) // j'affiche le texte dans la console 
+        console.log(citation) // j'affiche le texte dans la console  
     }
 
     const button = document.querySelector("#bouton"); // je cible le bouton 
